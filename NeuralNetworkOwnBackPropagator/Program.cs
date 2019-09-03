@@ -10,6 +10,11 @@ namespace NeuralNetworkOwnBackPropagator
     {
         static void Main(string[] args)
         {
+            RepositoryMNIST repo = new RepositoryMNIST(10);
+            List<DigitalImage> images = repo.getImages();
+            
+
+            
         }
     }
 }
