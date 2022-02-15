@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Classes\BasicLinearAlgebra.cs" />
     <Compile Include="Classes\RepositoryMNIST.cs" />
     <Compile Include="Classes\SigmoidNeuralNetwork.cs" />
     <Compile Include="Model\DigitalImage.cs" />
